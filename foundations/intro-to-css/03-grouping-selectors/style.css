@@ -1,0 +1,15 @@
+.normal,
+.important{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.normal{
+    color: white;
+    background-color: black;
+}
+
+.important{
+    color: red;
+    background-color: yellow;
+}
